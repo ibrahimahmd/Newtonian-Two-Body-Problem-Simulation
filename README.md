@@ -26,7 +26,3 @@ pip install -r requirements.txt
 ## TODO:
 
 - live trajectory plot is not that helpful -> perhaps a better feature would be to have phase-space plots (maybe).
-
-- Simulating Mercury's orbit would be inaccurate (precession would not be accounted for) -> futher development would be to implement a general relativistic version that resolve this issue.
-
-- current orbits are circular, which is ok for an approximation-> elliptical orbits would be more accurate.
